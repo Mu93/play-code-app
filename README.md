@@ -1,8 +1,8 @@
-# React + Vite
+# Play Code App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This app is a clone of some features of YouTube app, as it involves building multiple components, implementing various features, and integrating with APIs. However, here is a brief overview of the key components and features you might consider in the Play Code App:
 
-Currently, two official plugins are available:
+1. Use Material UI: A comprehensive collection of prebuilt components that are ready for use in production right out of the box.
+2. integrating with APIs: https://rapidapi.com/h0p3rwe/api/youtube-search-and-download
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![alt text](screenshot/Screenshot%202023-11-12%20010619.png)
