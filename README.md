@@ -5,4 +5,8 @@ This app is a clone of some features of YouTube app, as it involves building mul
 1. Use Material UI: A comprehensive collection of prebuilt components that are ready for use in production right out of the box.
 2. integrating with APIs: https://rapidapi.com/h0p3rwe/api/youtube-search-and-download
 
+
 ![alt text](screenshot/Screenshot%202023-11-12%20010619.png)
+
+![alt text](screenshot/Screenshot%202023-11-12%20010648.png)
+
